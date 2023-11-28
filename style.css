@@ -52,7 +52,7 @@ body{
 	width: 20em;
 	border: 1px solid;
 	border-radius: 7px;
-	padding: 0 1em;
+	padding: 0.2em 1.5em;
 	cursor: text;
 }
 
@@ -78,4 +78,17 @@ body{
 button:hover{
 	background-color: #fff;
 	color: #000;
+}
+
+.cadastrar{
+	font-size: 15px;
+	color: #fff;
+	text-decoration: none;
+	cursor: text;
+	margin: 1em;
+}
+.cadastrar span{
+	color: #0000bc;
+	text-decoration: underline;
+	cursor: pointer;
 }
