@@ -93,9 +93,13 @@ button:hover{
 	cursor: pointer;
 }
 footer{
-	display: flex;
-	align-items: center;
-	justify-content: center;
+	margin: 10px;
+	height: 200px;
+    	display: flex;
+    	align-items: flex-end;
+    	flex-direction: row;
+    	justify-content: center;
+    	align-content: flex-end;
 	font-size: 10px;
 	text-decoration: none;
 	color: #fff
