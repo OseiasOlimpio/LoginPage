@@ -15,6 +15,7 @@ body{
 	background-repeat: no-repeat;
 	width: 100vw;
 	height: 100vh;
+	margin: 3em;
 	z-index: -2;
 }
 .cadastro{
@@ -93,14 +94,14 @@ button:hover{
 	cursor: pointer;
 }
 footer{
-	margin: 10px;
-	height: 200px;
-    	display: flex;
-    	align-items: flex-end;
-    	flex-direction: row;
-    	justify-content: center;
-    	align-content: flex-end;
-	font-size: 10px;
-	text-decoration: none;
-	color: #fff
+	margin: 1em;
+    height: 8em;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: row;
+    align-content: space-evenly;
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+    flex-wrap: wrap;
 }
