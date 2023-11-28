@@ -79,13 +79,12 @@ button:hover{
 	background-color: #fff;
 	color: #000;
 }
-
 .cadastrar{
-	font-size: 15px;
-	color: #fff;
-	text-decoration: none;
-	cursor: text;
-	margin: 1em;
+    font-size: 15px;
+    color: #fff;
+    text-decoration: none;
+    cursor: text;
+    margin: 2em;
 }
 .cadastrar span{
 	color: #0000bc;
