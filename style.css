@@ -91,3 +91,8 @@ button:hover{
 	text-decoration: underline;
 	cursor: pointer;
 }
+footer{
+	font-size: 10px;
+	text-decoration: none;
+	color: #fff
+}
